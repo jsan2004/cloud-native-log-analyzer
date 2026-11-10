@@ -1,0 +1,20 @@
+# Sensitive Credentials
+.env
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Virtual Environments
+venv/
+env/
+ENV/
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+
+# Local static browser dump
+LogAn_dashboard_files/
